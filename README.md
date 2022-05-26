@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **[Splendor Bot](https://github.com/Ronak83s/Splendor-Bot)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- 👨‍💻 All of my projects are available at **[My Portfolio]()**!-->
 
-- 📫 How to reach me : **ronakpandeyofficial@gmail.com**
+- 📫 Drop a text or feel free to connect at : **ronakpandey8304@gmail.com**
 
 - ⚡ Fun fact : **I love travelling.**
 <br/>
