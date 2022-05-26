@@ -127,10 +127,6 @@
 <a href="https://www.instagram.com/ronak83s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronak83s" height="30" width="40" /></a>
 </p>
 
-
-<br/>
-
-<a href="https://www.buymeacoffee.com/Ronak83s" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
 <!--
 ## ❤ Views and Followers
     <img src="https://komarev.com/ghpvc/?username=Ronak83s">
