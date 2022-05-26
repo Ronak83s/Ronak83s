@@ -132,3 +132,10 @@
     <img src="https://komarev.com/ghpvc/?username=Ronak83s">
 </a>
 <a href="https://github.com/Ronak83s?tab=followers"><img src="https://img.shields.io/github/followers/Ronak83s?label=Followers&style=social" alt="GitHub Badge"></a> -->
+
+<!-- 
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='SEO'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/f3331b68871a4b5a89b2929b92d49d34.png' />
+</a>
+</div> -->
