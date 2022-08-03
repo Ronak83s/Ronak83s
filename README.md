@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Online Crime Reporting And Managemnt System](https://github.com/Ronak83s/Online-Crime-Reporting-And-Management-System)**
+- 🔭 I’m currently working on **[Online Crime Reporting And Management System](https://github.com/Ronak83s/Online-Crime-Reporting-And-Management-System)**
 
 - 🌱 I’m currently learning **Web Development.**
 
