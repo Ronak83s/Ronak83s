@@ -16,7 +16,7 @@
 
 - 📫 Drop a text or feel free to connect at : **ronakpandey8304@gmail.com**
 
-- ⚡ Fun fact : **I love travelling.**
+- ⚡ Fun fact : **I am interested in Reverse Engineering & Malware Analysis.**
 <br/>
 <br/>
 
