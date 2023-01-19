@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Online Crime Reporting And Management System](https://github.com/Ronak83s/Online-Crime-Reporting-And-Management-System)**
+- 🔭 I’m currently working on **[Online Crime Reporting System](https://github.com/Ronak83s/Online-Crime-Reporting-And-Management-System)**
 
 - 🌱 I’m currently learning **Web Development.**
 
@@ -105,16 +105,28 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Ronak83s/github-readme-stats"><img alt="Ronak Pandey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ronak83s&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ronak83s/github-readme-stats"><img alt="Ronak Pandey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak83s&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Ronak83s/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ronak83s&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Ronak's github stats" /></a> | 
+<a href="https://github.com/Ronak83s/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak83s&layout=compact&theme=github_dark&hide_border=true" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
+</br>
 
-<a href="https://github.com/Ronak83s/github-readme-activity-graph"><img alt="Ronak Pandey's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ronak83s&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+## 📈 Activity Graph
+<!-- <h2 align='center'><i><a href="https://github.com/Ronak83s/github-readme-activity-graph">Activity Graph 📈</i></h2>
+  -->
+<p align="center">
+ 
+<a href="https://github.com/Ronak83s/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ronak83s&theme=github-compact&area=true&hide_border=false#gh-dark-mode-only" width="100%">
+</a>
+ 
+</p>
+</br>
 
 <br/>
 <br/>
@@ -127,15 +139,9 @@
 <a href="https://www.instagram.com/ronak83s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronak83s" height="30" width="40" /></a>
 </p>
 
-<!--
-## ❤ Views and Followers
+
+<!-- ## ❤ Views and Followers
     <img src="https://komarev.com/ghpvc/?username=Ronak83s">
 </a>
-<a href="https://github.com/Ronak83s?tab=followers"><img src="https://img.shields.io/github/followers/Ronak83s?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
-<!-- 
-<div class='academy-badge'>
-<a href='http://academy.hubspot.com/certification' title='SEO'>
-<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/f3331b68871a4b5a89b2929b92d49d34.png' />
-</a>
-</div> -->
+<a href="https://github.com/Ronak83s?tab=followers"><img src="https://img.shields.io/github/followers/Ronak83s?label=Followers&style=social" alt="GitHub Badge"></a>
+ -->
